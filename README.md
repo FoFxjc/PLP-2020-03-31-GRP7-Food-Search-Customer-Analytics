@@ -40,5 +40,4 @@ Through this process, the team has learnt immensely on the application of natura
 ---
 ## SECTION 5 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : https://github.com/lxl734/PLP-2020-03-31-GRP7-Food-Search-Customer-Analytics/blob/master/ProjectReport/CA1%20Report%20-%20Food%20Search%20and%20Customer%20Analytics%20V1.0.pdf
-
+`<Github File Link>` : https://github.com/lxl734/PLP-2020-03-31-GRP7-Food-Search-Customer-Analytics/blob/master/ProjectReport/CA1%20Report%20-%20Food%20Search%20and%20Customer%20Analytics%20-%20V1.0.pdf
