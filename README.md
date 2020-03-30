@@ -30,7 +30,7 @@
 ## SECTION 5 : USER GUIDE
 ### Deployment User Guide
 
-`<Github File Link>` : 
+`<Github File Link>` : https://github.com/lxl734/PLP-2020-03-31-GRP7-Food-Search-Customer-Analytics/blob/master/UserGuide/User_Guide(Deployment).pdf
 
 ### Application User Guide
 
