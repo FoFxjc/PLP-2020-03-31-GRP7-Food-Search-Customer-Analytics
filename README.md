@@ -3,7 +3,7 @@
 ## Food Search & Customer Analytics
 
 <div align=center>
-<img src="Miscellaneous/logo.png"
+<img src="Miscellaneous/system-logo.png"
      style="" />
 </div>
 
@@ -20,6 +20,8 @@
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM DEPLOYMENT GUIDE
+
+https://youtu.be/HmR8BYN2fGQ
 
 Considering the sensitivity of commercial information, please go to luminus to check our system demo video.
 
