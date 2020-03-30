@@ -19,8 +19,9 @@
 
 
 ---
-## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+## SECTION 4 : VIDEO OF SYSTEM DEPLOYMENT GUIDE
 
+Considering the sensitivity of commercial information, please go to luminus to check our system demo video.
 
 
 ---
