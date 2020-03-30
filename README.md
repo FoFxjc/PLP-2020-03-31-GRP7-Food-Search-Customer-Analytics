@@ -21,7 +21,7 @@
 ---
 ## SECTION 4 : VIDEO OF SYSTEM DEPLOYMENT GUIDE
 
-https://youtu.be/HmR8BYN2fGQ
+[![Watch the video](http://img.youtube.com/vi/HmR8BYN2fGQ/0.jpg)](https://youtu.be/HmR8BYN2fGQ)
 
 Considering the sensitivity of commercial information, please go to luminus to check our system demo video.
 
